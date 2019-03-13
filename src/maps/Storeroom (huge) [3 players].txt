@@ -1,0 +1,17 @@
+createmap 15 10 3 2
+setstrength p1 3
+setstrength p2 3
+setstrength p3 3
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+w,c1,-,h,-,-,-,w,-,c2,c1,-,-,-,w
+w,c1,-,b,-,-,b,-,-,-,-,-,b,-,w
+w,-,-,p1,b,-,-,p3,-,h1,-,-,c3,-,w
+w,-,-,-,-,-,b,-,-,-,-,c3,-,-,w
+w,-,-,-,-,-,h,-,-,-,h2,-,s2,-,w
+w,-,-,-,b,-,b,-,-,w,-,-,-,-,w
+w,-,c3,-,-,-,-,h,-,-,w,-,-,-,w
+w,c2,c2,-,-,-,-,p2,-,s1,-,-,b,-,w
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+endcreate
+startgame
+exit
