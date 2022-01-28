@@ -10,7 +10,7 @@ public class Main {
 	
 	/**
 	 * Main method
-	 * Gets the input from the standard input, and processes the the commands and parameters
+	 * Gets the input from the standard input, and processes the commands and parameters
 	 * 
 	 * @param 	args		
 	 * @throws	IOException
@@ -20,9 +20,7 @@ public class Main {
 		DrawingManager g = new DrawingManager();
 		
 		if(g != null) {
-			
 			System.out.println("App is running.");
-			
 		}
 		
 	}
